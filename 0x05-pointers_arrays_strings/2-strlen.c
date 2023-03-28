@@ -4,7 +4,7 @@
  * @s: string
  * Return: length
  */
-void int_strlen(char*s)
+int_strlen(char*s)
 {
 	int lon = 0;
 
