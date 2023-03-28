@@ -4,7 +4,7 @@
  * @a: integer to swap
  * @b: integer to swap
  */
-void swap__int(int*a int*b)
+void swap__int(int*a, int*b)
 {
 	int m;
 
